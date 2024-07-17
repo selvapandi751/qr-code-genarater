@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color: #367;
+    background-color: whitesmoke;
 }
 
 #main{
@@ -23,6 +23,7 @@ body{
     font-weight: 700;
     font-size:25px;
     margin-bottom: 8px;
+    color:white;
 }
 
 #main input{
