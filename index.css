@@ -13,7 +13,7 @@ body{
     position:absolute;
     top: 50%;
     left: 50%;
-    background-color: #ddd;
+    background-color: #39a;
     transform: translate(-50%,-50%);
     border-radius: 10px;
     padding:25px 35px;
@@ -37,8 +37,8 @@ body{
 #main button{
     width:100%;
     height: 50px;
-    background-color: #39c;
-    color:#fff;
+    background-color: #fff;
+    color:#39a;
     border: 0;
     outline:0;
     border-radius: 5px;
